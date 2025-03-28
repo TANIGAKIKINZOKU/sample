@@ -19,11 +19,7 @@ header {
     justify-content:space-between;
 }
 
-img {
-  width: 200px;
-  height: 60px;
-  object-fit: cover;
-}
+
 
 header .nav .menu {
     display: flex; 
